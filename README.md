@@ -1,4 +1,4 @@
-# Bold Formatter Extension (Name TBD: Boldify / TypeSpark / UniStyle?)
+# Bold Formatter Extension
 
 A simple Chrome extension to easily format selected text into **bold** using Unicode characters. Ideal for making text stand out on social media platforms or anywhere else Unicode is supported.
 
