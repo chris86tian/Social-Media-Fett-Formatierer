@@ -1,0 +1,38 @@
+{
+  "extensionName": {
+    "message": "Social Media Bold Formatter",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Formats selected text to bold via context menu or popup.",
+    "description": "The description of the extension."
+  },
+  "contextMenuTitle": {
+    "message": "Format selected text to bold",
+    "description": "The title displayed in the context menu."
+  },
+  "popupTitle": {
+    "message": "Bold Formatter",
+    "description": "The title displayed in the popup window."
+  },
+  "popupInputPlaceholder": {
+    "message": "Paste text here...",
+    "description": "Placeholder text for the input textarea in the popup."
+  },
+  "popupOutputHeading": {
+    "message": "Formatted Text:",
+    "description": "Heading for the output section in the popup."
+  },
+  "popupCopyButton": {
+    "message": "Copy Bold Text",
+    "description": "Text for the copy button in the popup."
+  },
+  "popupCopyButtonCopied": {
+    "message": "Copied!",
+    "description": "Text for the copy button after successful copy."
+  },
+  "popupCopyButtonError": {
+    "message": "Error Copying",
+    "description": "Text for the copy button when copying fails."
+  }
+}

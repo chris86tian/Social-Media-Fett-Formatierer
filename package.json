@@ -1,0 +1,10 @@
+{
+  "name": "bold-formatter-extension",
+  "version": "0.1.0",
+  "description": "Formats selected text to bold using Unicode characters.",
+  "type": "module",
+  "scripts": {
+    "//": "No build scripts needed for this simple version"
+  },
+  "devDependencies": {}
+}

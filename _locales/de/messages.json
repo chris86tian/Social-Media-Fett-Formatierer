@@ -1,0 +1,38 @@
+{
+  "extensionName": {
+    "message": "Social Media Fett Formatierer",
+    "description": "Der Name der Erweiterung."
+  },
+  "extensionDescription": {
+    "message": "Formatiert ausgewählten Text über das Kontextmenü oder Popup fett.",
+    "description": "Die Beschreibung der Erweiterung."
+  },
+  "contextMenuTitle": {
+    "message": "Ausgewählten Text fett formatieren",
+    "description": "Der Titel, der im Kontextmenü angezeigt wird."
+  },
+  "popupTitle": {
+    "message": "Fett Formatierer",
+    "description": "Der Titel, der im Popup-Fenster angezeigt wird."
+  },
+  "popupInputPlaceholder": {
+    "message": "Text hier einfügen...",
+    "description": "Platzhaltertext für das Eingabe-Textfeld im Popup."
+  },
+  "popupOutputHeading": {
+    "message": "Formatierter Text:",
+    "description": "Überschrift für den Ausgabebereich im Popup."
+  },
+  "popupCopyButton": {
+    "message": "Fetten Text kopieren",
+    "description": "Text für den Kopieren-Button im Popup."
+  },
+  "popupCopyButtonCopied": {
+    "message": "Kopiert!",
+    "description": "Text für den Kopieren-Button nach erfolgreichem Kopieren."
+  },
+  "popupCopyButtonError": {
+    "message": "Fehler beim Kopieren",
+    "description": "Text für den Kopieren-Button, wenn das Kopieren fehlschlägt."
+  }
+}
